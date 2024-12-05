@@ -1,7 +1,8 @@
 # DOSS3R
 <p align="center">
-  <img src="https://t.me/ozirisXta/15?single" alt="DOSS3R Logo" width="300" height="300" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/8b00616c-de50-4c76-b37a-8651a6c6f40e" alt="DOSS3R Logo" width="300" height="300" style="border-radius: 50%;">
 </p>
+
 
 ![Platform](https://img.shields.io/badge/platform-Android-blue)  
 ![Language](https://img.shields.io/badge/language-Java-orange)  
