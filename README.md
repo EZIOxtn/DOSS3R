@@ -1,7 +1,8 @@
 # DOSS3R
-<p align="center">
-  #DOSS3R
+<p align="center" style="font-size: 36px; font-family: 'Arial', sans-serif; color: #4CAF50;">
+  Welcome to <strong>DOSS3R</strong>
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b00616c-de50-4c76-b37a-8651a6c6f40e" alt="DOSS3R Logo" width="300" height="300" style="border-radius: 50%;">
 </p>
