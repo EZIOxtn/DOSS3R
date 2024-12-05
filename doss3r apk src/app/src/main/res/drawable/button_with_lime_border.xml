@@ -1,0 +1,11 @@
+<!-- res/drawable/button_with_lime_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color inside the border -->
+    <solid android:background="@color/black" />
+
+    <!-- Lime green border -->
+    <stroke android:width="2dp" android:color="#021f02" />
+
+    <!-- Optional: Rounded corners for the border -->
+    <corners android:radius="8dp" />
+</shape>

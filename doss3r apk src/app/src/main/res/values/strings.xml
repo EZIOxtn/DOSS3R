@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DOSS3R</string>
+
+
+        <string translatable="false" name="notify_channel_id">MyDefaultChannelID</string>
+
+        <string translatable="false" name="notify_channel_name">MyDefaultChannelName</string>
+
+        <string translatable="false" name="notify_channel_description">MyDefaultChannelDescription</string>
+
+
+</resources>
