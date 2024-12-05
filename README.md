@@ -25,7 +25,7 @@ This tool is for **educational purposes only** and should be used responsibly. T
 <!-- Add screenshots of the app -->
 
 
-![Screenshot2]([path/to/screenshot2.png](https://github.com/user-attachments/assets/6e4182b6-5f7a-4f9e-9cc2-3077831df185))  
+![Screenshot2](https://github.com/user-attachments/assets/6e4182b6-5f7a-4f9e-9cc2-3077831df185)
 
 ## Installation
 
