@@ -1,6 +1,6 @@
 # DOSS3R
-<p align="center" style="font-size: 36px; font-family: 'Arial', sans-serif; color: #4CAF50;">
-  Welcome to <strong>DOSS3R</strong>
+<p align="center" style="font-size: 56px; font-family: 'impact', sans-serif; color: #4CAF50;">
+  Welcome to <strong>DOSS3R Android APK</strong>
 </p>
 
 <p align="center">
