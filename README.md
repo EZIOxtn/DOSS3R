@@ -23,8 +23,9 @@ This tool is for **educational purposes only** and should be used responsibly. T
 
 ## Screenshots
 <!-- Add screenshots of the app -->
-![Screenshot1]([path/to/screenshot1.png](https://cdn4.cdn-telegram.org/file/GzPMNLYXD9fIjT8W8G1_IkpN5THNhClZ4_4JjPzEf5iCcfYlo0Cebs9h0bw_ZGOgIOwZveitd66Ty1dZijq1s13u7GLXzS-vJtDfJVlGnIi4EWqOfVFYN1FmDR0GQhJYkm5lO9hgpsZX5S51zunXz1vxbEyhPFjCTFG07qoxTo0uOk_ZHqpbRSFyej5waoa3M5uNzYFcPiZWm0BydByDgUi3N3MPYetCKL5JJqFeYjZWOSBgKEKSV9RLVbUu5L3890zqD79YqMQZq1lD8E9qP-32Dk7K4wZ3zv1uJDXQ3MDEPHxusRSw652l4rnVWzHbzzqL2k8LPRDC3lWljp6eKQ.jpg))  
-![Screenshot2](path/to/screenshot2.png)  
+
+
+![Screenshot2]([path/to/screenshot2.png](https://github.com/user-attachments/assets/6e4182b6-5f7a-4f9e-9cc2-3077831df185))  
 
 ## Installation
 
